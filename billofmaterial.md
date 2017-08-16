@@ -7,4 +7,4 @@ Flash                 | MicroSD?     | ?     | ?      |                 |       
 pressure sensor       | ELDOER (Ali) | 9-20  | 50     |    10           |                 |
 temperature sensor    | DS18B20      | 1     | 5      |                 |                 |
 conductivity sensor   |    ?         | ?     | ?      |                 |                 |
-battery               |18650 or LiPo | ?     | ?      |                 |                 |
+battery               |18650 or LiPo | ?     | ?      |  testvalue      |                 |
